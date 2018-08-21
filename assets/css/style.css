@@ -2298,7 +2298,7 @@ input[type=password].error,
 .header .buy-btn:active,
 .header .buy-btn.hovered,
 .header .buy-btn.pressed {
-  border-color: #fe4918; /*underline color */
+  border-color: #9932cc; /*underline color */
 }
 .base-clr-bg,
 .overlay.overlay-clr:before,
